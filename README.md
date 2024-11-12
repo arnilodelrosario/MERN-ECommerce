@@ -1,4 +1,4 @@
-# Simple E-Commerce App
+# MERN E-Commerce App
 
 This project is a **MERN (MongoDB, Express.js, React.js, Node.js) stack** application, combining the power of backend APIs with a responsive frontend. Built with Chakra UI for clean design and ease of use, this app demonstrates how to create a responsive web application with essential MERN functionalities.
 
@@ -17,5 +17,3 @@ This project is a **MERN (MongoDB, Express.js, React.js, Node.js) stack** applic
 - 🐞 **Error Handling**: Basic error handling implemented to ensure stability.
 - 🌐 **Deployment**: Easily deployable to production environments.
 - 🚀 **Cool Functionalities**: Includes dynamic routes, reusable components, and state management.
-
-# MERN-ECommerce
